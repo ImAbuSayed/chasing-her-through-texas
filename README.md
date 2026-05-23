@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chasing-her-through-texas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Chasing Her Through Texas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-her-through-texas/) |
+| **Get License** | [Obtain a Music License for Chasing Her Through Texas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-her-through-texas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your perfume lingers on my leather seat
+> A late-night craving that I can't defeat
+> I'm tracing every mile back to your door
+> To give you everything you're asking for
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
